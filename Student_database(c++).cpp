@@ -178,7 +178,7 @@ inserts f[100];
 		break;
 		case 6 : system("cls");
                cout<<"\n\n\t\t\t\t THANKYOU FOR USING STUDENT DATABASE MANAGEMENT SYSTEM\n\n\n\n";
-               cout<<"\n\n\t\t\t\t\t This Program is written by Shivam Sharan\n\n\n\n\n\n\n";
+
                exit(0);
 
         default: cout<<"\n Please Select a Valid Option\n\n\n\n\n\n\n\n\n\n";
@@ -192,7 +192,7 @@ inserts f[100];
 {
     system("cls");
             cout<<"\n\n\t\t\t\t THANKYOU FOR USING STUDENT DATABASE MANAGEMENT SYSTEM\n\n\n\n";
-               cout<<"\n\n\t\t\t\t\t This Program is written by Shivam Sharan\n\n\n\n\n\n\n\n\n\n";
+
 
 }
 
